@@ -14,10 +14,25 @@ My name is Manuel . I'm an **Software Engineer** & **Fullstack Developer**. Curr
 
 - Flutter
 - React Native
+- Next JS
 - Angular
-- React
+- React (Library)
 - Node
+- Nest JS
 - Echo
+
+## **Infra**
+
+- Cloud: AWS.
+- Kubernetes
+- Docker
+
+## **Observability - Performance and Errors - Instrument**
+
+- Grafana
+- Sentry
+- New Relic
+- Gleap
 
 ### **You can find me in**
 
